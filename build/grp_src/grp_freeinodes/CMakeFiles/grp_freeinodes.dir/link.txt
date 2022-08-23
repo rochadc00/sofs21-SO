@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_freeinodes.a  CMakeFiles/grp_freeinodes.dir/grp_alloc_inode.cpp.o CMakeFiles/grp_freeinodes.dir/grp_free_inode.cpp.o CMakeFiles/grp_freeinodes.dir/grp_hide_inode.cpp.o CMakeFiles/grp_freeinodes.dir/grp_unqueue_hidden_inode.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_freeinodes.a

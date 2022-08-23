@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_mksofs.a  CMakeFiles/grp_mksofs.dir/grp_mksofs_CS.cpp.o CMakeFiles/grp_mksofs.dir/grp_mksofs_FSB.cpp.o CMakeFiles/grp_mksofs.dir/grp_mksofs_FIT.cpp.o CMakeFiles/grp_mksofs.dir/grp_mksofs_FRD.cpp.o CMakeFiles/grp_mksofs.dir/grp_mksofs_FBT.cpp.o CMakeFiles/grp_mksofs.dir/grp_mksofs_ZDB.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_mksofs.a

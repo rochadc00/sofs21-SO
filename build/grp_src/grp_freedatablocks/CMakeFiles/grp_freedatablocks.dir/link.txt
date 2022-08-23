@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_freedatablocks.a  CMakeFiles/grp_freedatablocks.dir/grp_alloc_datablock.cpp.o CMakeFiles/grp_freedatablocks.dir/grp_free_datablock.cpp.o CMakeFiles/grp_freedatablocks.dir/grp_replenish_from_cache.cpp.o CMakeFiles/grp_freedatablocks.dir/grp_replenish_from_bitmap.cpp.o CMakeFiles/grp_freedatablocks.dir/grp_deplete.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/grp/libgrp_freedatablocks.a

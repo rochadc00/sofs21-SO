@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libsyscalls.a  CMakeFiles/syscalls.dir/syscalls_main.cpp.o CMakeFiles/syscalls.dir/syscalls_others.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libsyscalls.a

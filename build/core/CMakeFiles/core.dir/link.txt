@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libcore.a  CMakeFiles/core.dir/exception.cpp.o CMakeFiles/core.dir/rawdisk.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libcore.a

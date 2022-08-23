@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -D_FILE_OFFSET_BITS=64 -ggdb  -rdynamic CMakeFiles/showblock.dir/showblock.cpp.o  -o /home/diana/Desktop/3ano/SO/sofs21-so-3g1/bin/showblock  /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libdevtools.a /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libcore.a 

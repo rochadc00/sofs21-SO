@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libdaal.a  CMakeFiles/daal.dir/daal_OC.cpp.o CMakeFiles/daal.dir/daal_SB.cpp.o CMakeFiles/daal.dir/daal_IT.cpp.o CMakeFiles/daal.dir/daal_BT.cpp.o CMakeFiles/daal.dir/daal_inode.cpp.o CMakeFiles/daal.dir/daal_DBP.cpp.o
+/usr/bin/ranlib /home/diana/Desktop/3ano/SO/sofs21-so-3g1/lib/libdaal.a
